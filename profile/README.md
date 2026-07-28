@@ -14,6 +14,6 @@ We’re giving AI agents real power — access to our tools, our data,
 and our systems — and letting them act for us. When one of them does
 something, most of us can’t see everything it did, or why.
  
-That’s the gap we’re building to close.
+We're building what closes that gap.
  
 **ataroi.com** — coming soon.
