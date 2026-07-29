@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="profile/ataroi-A-gold.png" alt="Ataroi" width="140">
+  <img src="https://raw.githubusercontent.com/ataroicorp/.github/main/profile/ataroi-A-
+gold.png" alt="Ataroi" width="140">
 </p>
  
 <h1 align="center">Ataroi</h1>
@@ -10,10 +11,10 @@
  
 ---
  
-We’re giving AI agents real power — access to our tools, our data,
-and our systems — and letting them act for us. When one of them does
-something, most of us can’t see everything it did, or why.
+We’re giving AI agents real power — access to our tools, our data, and our
+systems — and letting them act for us. When one of them does something, most
+of us can’t see everything it did, or why.
  
-We're building what closes that gap.
+We’re building what closes that gap.
  
-**ataroi.com** — coming soon.
+→ **[ataroi.com](https://ataroi.com)** — join the early list.
